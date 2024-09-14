@@ -2,7 +2,7 @@ import zipfile
 import os
 import sys
 
-print("\033[91\nm========Zip File Password Crackee========\n")
+print("\033[91\nm========Zip File Password Cracker========\n")
 print("\033[92m     / \        | |    / \    \ \/ /            ")
 print("    / _ \    _  | |   / _ \    \  /             ")
 print("   / ___ \  | |_| |  / ___ \   /  \             ")

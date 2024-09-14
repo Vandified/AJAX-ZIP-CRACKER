@@ -19,7 +19,7 @@ AJAX-ZIP-CRACKER is a Python script designed to crack passwords for encrypted ZI
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/AJAX-ZIP-CRACKER.git
+   git clone https://github.com/Vandified/AJAX-ZIP-CRACKER.git
    cd AJAX-ZIP-CRACKER
    ```
 
@@ -29,7 +29,7 @@ AJAX-ZIP-CRACKER is a Python script designed to crack passwords for encrypted ZI
 
 3. **Run the Script**
    ```bash
-   python3 zip_cracker.py
+   python3 cracker.py
    ```
    - Enter the name of the ZIP file you want to crack.
    - Enter the name of the password list file.
